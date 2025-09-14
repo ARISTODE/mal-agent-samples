@@ -1,0 +1,23 @@
+# Claude Code configuration and memory files
+.claude/
+.serena/
+
+# Build artifacts and temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Test output files
+tree_test.dat
+callback_test.log
+test_*.txt
